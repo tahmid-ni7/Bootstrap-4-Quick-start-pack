@@ -9,8 +9,10 @@ This is a quick start pack of bootstrap-4 with other essential files.
 - custom.css & main.js
 - Roboto google font
 
-~~~ You can clone it easily for your web design and development. ~~~
 
-```
-Thanks from **Tahmid Nishat**
-```      
+You can clone it easily for your web design and development.
+
+
+````
+Thanks from Tahmid Nishat
+````      
